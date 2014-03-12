@@ -5,7 +5,7 @@ Elevator Controller Variations
 
 #Schematic of Nexys2_top_shell
 
-![schematic]()
+![schematic](https://raw.github.com/jrecheverry/Lab3/master/Prelab3_schematic.JPG)
 
 #Main Lab
 
